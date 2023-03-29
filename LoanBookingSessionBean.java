@@ -1,3 +1,6 @@
+gfjh guig
+yuioyu
+iuiou
 import java.util.Scanner;  
 import java.lang.Math;  
 import java.io.printer; 
